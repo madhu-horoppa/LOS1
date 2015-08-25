@@ -11,7 +11,7 @@
 <property name="readonly" value="false"/>
 <property name="isHTML" value="false"/>
 <property name="hideContent" value="false"/>
-<property name="outputBinding" value="processInstanceId"/>
+<property name="outputBinding" value="out_age"/>
 <property name="fieldClass" value="java.lang.String"/>
 </field>
 </form>

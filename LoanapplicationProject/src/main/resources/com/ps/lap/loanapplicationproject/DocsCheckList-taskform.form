@@ -47,7 +47,7 @@
 <property name="readonly" value="false"/>
 <property name="isHTML" value="false"/>
 <property name="hideContent" value="false"/>
-<property name="inputBinding" value="in_age"/>
+<property name="inputBinding" value="parentProcessInstanceId"/>
 <property name="fieldClass" value="java.lang.String"/>
 </field>
 </form>

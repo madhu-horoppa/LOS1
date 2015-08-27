@@ -53,7 +53,7 @@
 <property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
 <property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
 <property name="readonly" value="true"/>
+<property name="inputBinding" value="in_scoreForAge + in_socreForGender  + in_socreForMaritalStatus"/>
 <property name="fieldClass" value="java.lang.Integer"/>
-<property name="onChangeScript" value="in_scoreForAge + in_socreForGender  + in_socreForMaritalStatus"/>
 </field>
 </form>
